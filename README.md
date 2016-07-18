@@ -1,7 +1,7 @@
 FDI!
 ===
 
-Recreational and incomplete dependency injection hack.
+Recreational dependency injection hack.
 
  - Can, recursively, inject fields annotated by `javax.inject.@Inject`.
  - Supports impl-binding configuration to both classes and instances.
